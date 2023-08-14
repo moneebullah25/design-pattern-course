@@ -1,0 +1,10 @@
+Creational 
+This deals with object initialization and creation
+Singleton, Factory, Abstract Factory
+
+Structural
+This deals with class and object composition
+Adapter, Bridge
+
+Behavioural
+This deals with communication between classes and objects
